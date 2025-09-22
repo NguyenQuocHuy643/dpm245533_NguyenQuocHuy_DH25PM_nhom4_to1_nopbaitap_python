@@ -1,0 +1,1 @@
+-> python hỗ trợ những kiểu  dữ liệu: int, float, boolean, string.
